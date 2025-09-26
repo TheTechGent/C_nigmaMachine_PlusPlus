@@ -1,0 +1,26 @@
+﻿  EnigmaMachine.cpp
+  Keyboard.cpp
+  Logs.cpp
+C:\Users\TheTechGent\02-PROJECTS\C_nigmaMachine_PlusPlus\Logs.cpp(38,10): error C2065: 'ERotationLog': undeclared identifier
+  (compiling source file '/Logs.cpp')
+  
+C:\Users\TheTechGent\02-PROJECTS\C_nigmaMachine_PlusPlus\Logs.cpp(38,3): error C2923: 'std::vector': 'ERotationLog' is not a valid template type argument for parameter '_Ty'
+  (compiling source file '/Logs.cpp')
+      C:\Users\TheTechGent\02-PROJECTS\C_nigmaMachine_PlusPlus\Logs.cpp(38,10):
+      see declaration of 'ERotationLog'
+  
+C:\Users\TheTechGent\02-PROJECTS\C_nigmaMachine_PlusPlus\Logs.cpp(38,3): error C2976: 'std::vector': too few template arguments
+  (compiling source file '/Logs.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector'
+  
+C:\Users\TheTechGent\02-PROJECTS\C_nigmaMachine_PlusPlus\Logs.cpp(38,37): error C2514: 'std::vector': class template cannot be constructed
+  (compiling source file '/Logs.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(442,7):
+      see declaration of 'std::vector'
+  
+  Plugboard.cpp
+  Reflector.cpp
+  Rotor.cpp
+  Source.cpp
+  Generating Code...
